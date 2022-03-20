@@ -1,0 +1,57 @@
+body{
+  background:lightblue;
+}
+
+h1{
+  text-align:center;
+  background:peru;
+  color:white;
+}
+
+p{
+  border:3px solid red;
+  background:peru;
+  font-size:20px;
+  padding:5px;
+  border-radius:10px;
+}
+
+h2{
+  text-align:center;
+}
+
+td{
+  font-size:20px;
+  border:3px solid red;  
+  padding:5px;
+  border-radius:5px;
+  margin:50px;
+}
+
+h5{
+  font-size:40px;
+  border:3px solid red;
+  border-radius:20px;
+  padding:10px;
+  background:peru;
+}
+	 
+header img{
+  width:600px;
+  height:300px;
+  padding:5px;
+  border:5px solid red;
+  border-radius:100px;
+  margin:25px;
+  background:peru;
+}
+
+td img{
+  width:300px;
+  height:170px;
+}
+
+table{
+  text-align:center;
+  background:peru;
+}
